@@ -99,3 +99,60 @@ p {
     border: 1px solid red;
     color: red;
 }
+
+#banner {
+    height: 350px;
+}
+
+h1 {
+    border-style: solid;
+}
+
+h3{
+    border: 1px dotted;
+    border-radius: 5px;
+}
+
+.navigation li {
+    padding: 10px;
+}
+
+.share a {
+    padding: 14px;
+}
+
+p {
+   margin-top: 40px;
+}
+
+.share a {
+    margin: 10px;
+}
+
+h3 {
+    margin: 30px 20px 30px 20px;
+    padding: 20px 30px 20px 30px;
+}
+
+.pull-quote {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 800px;
+    overflow-y: auto;
+}
+
+body {
+    margin: unset;
+    padding: unset;
+}
+
+.global {
+    visibility: hidden;
+}
